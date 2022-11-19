@@ -1,0 +1,6 @@
+a = """One line,
+two line,
+three line,
+four,
+how many lines have fallen on the floor."""
+print(a)
