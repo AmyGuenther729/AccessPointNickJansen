@@ -1,0 +1,6 @@
+a = '''One string,
+two string,
+three string,
+four,
+How many strings will fall on the floor.'''
+print(a)
