@@ -1,0 +1,3 @@
+thislist = [100, 25, 32, 42]
+thislist.sort(reverse = True)
+print(thislist)
