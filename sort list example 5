@@ -1,0 +1,5 @@
+def myfunc(n):
+  return abs(n - 50)
+thislist = [100, 35, 20, 50]
+thislist.sort(key = myfunc)
+print(thislist)
