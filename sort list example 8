@@ -1,0 +1,3 @@
+thislist = ["banana", "cherry", "apple", "kiwi"]
+thislist.reverse()
+print(thislist)
