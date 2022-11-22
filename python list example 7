@@ -1,0 +1,2 @@
+thislist = list(("apple", "cherry", "banana"))
+print(thislist)
