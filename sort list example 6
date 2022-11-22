@@ -1,0 +1,3 @@
+thislist = ["Banana", "apple", "Cherry", "Chocolate"]
+thislist.sort()
+print(thislist)
